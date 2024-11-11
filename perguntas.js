@@ -1,6 +1,6 @@
 criaCartao(
     'Programação',
-    'O que é',
+    'O que é ',
     'O JavaScript é uma linguagem de programação.'
 )
 
@@ -16,4 +16,3 @@ criaCartao(
     'Uma função é um bloco de código que executa alguma tarefa.'
 )
     
-)
