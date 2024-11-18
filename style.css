@@ -73,7 +73,7 @@ footer p{
     font-weight: 700;
 }
 
-.cartao:hover .cartao__conteudo {
+.cartao.activt .cartao__conteudo {
     transform: rotateY(180deg);
 } 
 
