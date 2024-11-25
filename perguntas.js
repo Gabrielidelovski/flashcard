@@ -21,4 +21,15 @@ criaCartao(
     'Como se diz oi em Ingles?,
     'Oi em Inglês é Hi.',
 )
+
+criaCartao(
+    'Geografia',
+    'Qual País tem mais ilhas no mundo?,
+    'Suécia.',
+)
+criaCartao(
+    'Geografia',
+    'Qual o menor país do mundo?,
+    'Vaticano.',
+)
     
